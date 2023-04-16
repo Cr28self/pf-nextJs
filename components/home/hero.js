@@ -6,9 +6,8 @@ function Hero() {
     <>
       <div className="flex flex-col items-center mb-16 text-center lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 md:items-start md:text-left md:mb-0">
         <h1 className="mb-4 text-3xl font-medium text-gray-900 title-font sm:text-4xl">
-          안녕 나는 개발자
+          테스트 포폴 페이지
           <br className="hidden lg:inline-block" />
-          학생
         </h1>
         <p className="mb-8 leading-relaxed">
           풀이 꽃이 아름답고 있다. 청춘이 있음으로써 눈이 남는 일월과 뿐이다.
